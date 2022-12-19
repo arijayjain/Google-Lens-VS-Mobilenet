@@ -1,0 +1,23 @@
+h2{
+    color:red;
+}
+h3
+{
+    color: bisque;
+}
+body{
+    background:linear-gradient(red,aqua);
+}
+h1{
+    color: blue
+}
+div
+{
+    border-color:black;
+    border-radius:20px;
+    border-width:30px;
+}
+p1
+{
+    color:aquamarine;
+}
